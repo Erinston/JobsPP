@@ -1,0 +1,10 @@
+
+/* comandos git terminal *\
+$ git clone
+$ git push
+$ git -m
+$ git commit
+$ git pull /*(não utilizar git pull)*\
+	$ git fetch origin
+	$ git merge /*(não utilizar git merge)*\ 
+	$ git rebase origin (volta a verção anterior antes da alterção então modifica o codigo para não ficar com dois codigos pai, por que se não fica complicado para altera o codigo e deixa o projeto inconsistente . )
